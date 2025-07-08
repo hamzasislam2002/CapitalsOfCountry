@@ -1,0 +1,12 @@
+north_america_capitals = {"Saint Kitts and Nevis": "Basseterre", 
+                          "Belize":"Belmopan",
+                          "Barbados":"Bridgetown",
+                          "St. Lucia":"Castries",
+                          "U.S. Virgin Islands":"Charlotte Amaliie",
+                          "Turks and Caicos":"Cockburn Town",
+                          "Cayman Islands":"George Town",
+                          "Guatemala":"Guatemala City",
+                          "Bermuda":"Hamilton",
+                          "Cuba":"Havana",
+                          "Jamaica":"Kingston",
+                          "St. Vincent and the Grenadines":"Kingstown"}
