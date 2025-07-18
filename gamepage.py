@@ -20,6 +20,7 @@ for y in southamerica.south_america_capitals.keys():
     sa_list.append(y)
 print(na_list)
 print(sa_list)
+print(africa_list)
 
 if answer == 1:
     random_answer_na = random.choice(na_list)
